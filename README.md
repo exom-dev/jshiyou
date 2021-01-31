@@ -74,6 +74,8 @@ function test(category: string, name: string, handler: function);
 - two tests in the same category cannot have the same name
 - a test cannot have the name `$`, because it is reserved
 
+---
+
 ### Run
 
 To run all tests, or only the tests from one category, use the `run` function.
@@ -90,6 +92,8 @@ function run(category: string | undefined): bool;
 
 True, if the tests passed. False otherwise.
 
+---
+
 ### Silent
 
 If you want to silence jshiyou, such that nothing is printed to stdout, use the `silent` function.
@@ -101,6 +105,8 @@ function silent(value: bool | undefined);
 ##### Params
 
 - **value** - whether or not to silence jshiyou. If undefined, defaults to true.
+
+---
 
 ### Reset
 
