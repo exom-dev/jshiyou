@@ -17,7 +17,7 @@ npm i @exom-dev/jshiyou
 Here is a basic example.
 
 ```js
-const shiyou = require('shiyou');
+const shiyou = require('@exom-dev/jshiyou');
 
 // Test category, test name, and test handler (true if passed, false otherwise).
 shiyou.test('Arithmetic', 'One plus one', () => 1 + 1 === 2);
