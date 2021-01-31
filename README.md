@@ -55,7 +55,7 @@ Test    Misc          Null is falsy     passed
 
 # Documentation
 
-### test
+### Test
 
 To register a test, simply use the `test` function.
 
