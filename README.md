@@ -90,12 +90,12 @@ function run(category: string | undefined): bool;
 
 True, if the tests passed. False otherwise.
 
-### Silence
+### Silent
 
-If you want to silence jshiyou, such that nothing is printed to stdout, use the `silence` function.
+If you want to silence jshiyou, such that nothing is printed to stdout, use the `silent` function.
 
 ```js
-function silence(value: bool | undefined);
+function silent(value: bool | undefined);
 ```
 
 ##### Params
