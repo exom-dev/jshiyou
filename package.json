@@ -1,0 +1,20 @@
+{
+  "name": "jshiyou",
+  "version": "1.0.0",
+  "description": "Simple testing tool",
+  "keywords": [
+    "testing"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exom-dev/jshiyou.git"
+  },
+  "author": "The Exom Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exom-dev/jshiyou/issues"
+  },
+  "homepage": "https://github.com/exom-dev/jshiyou"
+}
